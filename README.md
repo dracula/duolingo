@@ -10,7 +10,7 @@ install with [stylus](chrome-extension://clngdbkpkpeebahjckkjfobafhncgmne/edit.h
 
 ## Team
 
-This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/sonofactgnrd/Duolingo-Dark-Mode)
+This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/sonofactgnrd/Duolingo-Dark-Mode/graphs/contributors)
 
 | [![Alden Clark](https://github.com/sonofactgnrd.png?size=100)](https://github.com/sonofactgnrd)
 
