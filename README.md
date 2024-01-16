@@ -1,20 +1,20 @@
-# Dracula for [Foobar](https://foobar.com)
+# Dracula for [Duolingo](https://duolingo.com)
 
-> A dark theme for [Foobar](https://foobar.com).
+> A dark theme for [Duolingo](https://Duolingo.com).
 
 ![Screenshot](./screenshot.png)
 
 ## Install
 
-All instructions can be found at [draculatheme.com/foobar](https://draculatheme.com/foobar).
+install with [stylus](chrome-extension://clngdbkpkpeebahjckkjfobafhncgmne/edit.html?id=4)
 
 ## Team
 
-This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/foobar/graphs/contributors).
+This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/sonofactgnrd/Duolingo-Dark-Mode)
 
-| [![Zeno Rocha](https://github.com/zenorocha.png?size=100)](https://github.com/zenorocha) | [![Lucas de França](https://github.com/luxonauta.png?size=100)](https://github.com/luxonauta) |
+| [![Alden](https://github.com/sonofactgnrd.png?size=100)](https://github.com/sonofactgnrd)
 | ---------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
-| [Zeno Rocha](https://github.com/zenorocha)                                               | [Lucas de França](https://github.com/luxonauta)                                               |
+| [Alden Clark](https://github.com/sonofactgnrd)
 
 ## Community
 
