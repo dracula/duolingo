@@ -6,7 +6,7 @@
 
 ## Install
 
-install with [stylus](chrome-extension://clngdbkpkpeebahjckkjfobafhncgmne/edit.html?id=4)
+install with [stylus](chrome-extension://clngdbkpkpeebahjckkjfobafhncgmne/edit.html?id=4).
 
 ## Team
 
