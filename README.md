@@ -6,15 +6,15 @@
 
 ## Install
 
-install with [stylus](https://chromewebstore.google.com/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne).
+install with [stylus](https://chromewebstore.google.com/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne). Once you have the styles exstion you will go to [duolingo.com](https://www.duolingo.com/) and press on make style for doulingo.com and copy the raw css into the blank template for the theme.
 
 ## Team
 
 This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/sonofactgnrd/Duolingo-Dark-Mode/graphs/contributors)
 
-| [![Alden Clark](https://github.com/sonofactgnrd.png?size=100)](https://github.com/sonofactgnrd)
+ [![Alden Clark](https://github.com/sonofactgnrd.png?size=100)](https://github.com/sonofactgnrd)
 
-| [Alden Clark](https://github.com/sonofactgnrd)
+ [Alden Clark](https://github.com/sonofactgnrd)
 
 ## Community
 
