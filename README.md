@@ -2,7 +2,7 @@
 
 > A dark theme for [Duolingo](https://Duolingo.com).
 
-![Screenshot](./screenshot.png)
+![Screenshot](./Screenshot.png)
 
 ## Install
 
@@ -12,8 +12,8 @@ install with [stylus](chrome-extension://clngdbkpkpeebahjckkjfobafhncgmne/edit.h
 
 This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/sonofactgnrd/Duolingo-Dark-Mode)
 
-| [![Alden](https://github.com/sonofactgnrd.png?size=100)](https://github.com/sonofactgnrd)
-| ---------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
+| [![Alden Clark](https://github.com/sonofactgnrd.png?size=100)](https://github.com/sonofactgnrd)
+
 | [Alden Clark](https://github.com/sonofactgnrd)
 
 ## Community
