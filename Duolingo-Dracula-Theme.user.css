@@ -4,7 +4,7 @@
 @version        1.0.0
 @description    Duolingo darkmode
 @author         sonofactgnrd
-@homepageURL    https://github.com/sonofactgnrd/Duolingo-Dark-Mode
+@license        MIT
 ==/UserStyle== */
 @-moz-document domain("www.duolingo.com") {
     :root {
@@ -185,6 +185,21 @@
         color: #F8F8F2!important;
     }
     ._30qMV._2N_A5._36Vd3._16r-S._2orIw._3PphB._9C_ii {
-        background: #50FA7B;
+        background: #50FA7B !important;
+    }
+    ._1ER0R {
+        background: #44475A !important;
+    }
+    ._2NqFk {
+        background: #44475A !important;
+    }
+    ._1PsCJ {
+        background: #44475A !important;
+    }
+    ._1hEOp._13Rl7._3lUbm._1vD0C {
+        background: #44475A !important;
+    }
+    ._3RFRb {
+        color: #282A36 !important;
     }
 }
