@@ -2,19 +2,19 @@
 
 > A dark theme for [Duolingo](https://Duolingo.com).
 
-![Screenshot](./Screenshot.png)
+![Screenshot](./screenshot.png)
 
 ## Install
 
-install with [stylus](https://chromewebstore.google.com/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne). Once you have the styles exstion you will go to [duolingo.com](https://www.duolingo.com/) and press on make style for doulingo.com and copy the raw css into the blank template for the theme.
+All instructions can be found at [draculatheme.com/duolingo](https://draculatheme.com/duolingo).
 
 ## Team
 
-This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/sonofactgnrd/Duolingo-Dark-Mode/graphs/contributors)
+This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/duolingo/graphs/contributors)
 
- [![Alden Clark](https://github.com/sonofactgnrd.png?size=100)](https://github.com/sonofactgnrd)
-
- [Alden Clark](https://github.com/sonofactgnrd)
+| [![Alden Clark](https://github.com/sonofactgnrd.png?size=100)](https://github.com/sonofactgnrd) |
+| ----------------------------------------------------------------------------------------------- |
+| [Alden Clark](https://github.com/sonofactgnrd)                                                  |
 
 ## Community
 
