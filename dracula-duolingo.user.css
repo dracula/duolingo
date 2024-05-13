@@ -1,20 +1,4 @@
-/* ==UserStyle==
-@name           www.duolingo.com
-@namespace      github.com/openstyles/stylus
-@version        1.0.0
-@description    Duolingo darkmode
-@author         sonofactgnrd
-@license        MIT
-==/UserStyle== */
-@-moz-document domain("www.duolingo.com") {
-  :root {
-    --theme-page-header-nav-bg: #44475a !important;
-    --theme-page-header-nav-bg2: #006184;
-    --theme-page-header-nav-open-bg: #007da5;
-    --theme-page-header-nav-text-color: #f8f8f2 !important;
-    --colorLink: #007da5;
-  }
-    body,
+     body,
     ._3Du84,
     ._1RaPI._1NzeZ,
     ._1rK9L,
