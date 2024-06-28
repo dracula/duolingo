@@ -1,7 +1,7 @@
 # Dracula for [Duolingo](https://duolingo.com)
 
 > A dark theme for [Duolingo](https://Duolingo.com).
-> Note: works best with Duolingos built in dark mode enabled.
+- Note: works best with Duolingos built in dark mode enabled.
 
 ![Screenshot](./screenshot.png)
 
