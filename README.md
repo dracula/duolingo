@@ -13,7 +13,7 @@ All instructions can be found at [draculatheme.com/duolingo](https://draculathem
 
 This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/duolingo/graphs/contributors)
 
-| [![Alden Clark](https://github.com/sonofactgnrd.png?size=50)](https://github.com/sonofactgnrd) | [![Lucas de França](https://github.com/luxonauta.png?size=100)](https://github.com/luxonauta) |
+| [![Alden Clark](https://github.com/sonofactgnrd.png?size=10)](https://github.com/sonofactgnrd) | [![Lucas de França](https://github.com/luxonauta.png?size=100)](https://github.com/luxonauta) |
 | ---------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
 | [Alden Clark](https://github.com/sonofactgnrd)                                               | [Lucas de França](https://github.com/luxonauta)                                               |
 
